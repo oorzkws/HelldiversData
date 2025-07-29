@@ -1,7 +1,7 @@
 { "HelldiverCustomizationKit" : {
     "id" : { "type": "uint" },
     "dlc_id" : { "type": "uint" },
-    "_set_id" : { "type": "uint" },
+    "set_id" : { "type": "uint" },
     "name_upper" : { "type": "uint" },
     "name_cased" : { "type": "uint" },
     "desc" : { "type": "uint" },

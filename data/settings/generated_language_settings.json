@@ -35,16 +35,16 @@
               "y": 75
             },
             "raw_name": "English US",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "en"
         },
         {
           "name_loc": 1855354149,
           "suffix": "gb",
-          "wwise_name": null,
+          "wwise_name": "",
           "wwise_event": 0,
-          "steam_name": null,
+          "steam_name": "",
           "steam_depot": 0,
           "steam_depot_is_dlc": 1,
           "psn_chunk": 65535,
@@ -72,7 +72,7 @@
               "y": 75
             },
             "raw_name": "English UK",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "en-GB"
         },
@@ -109,7 +109,7 @@
               "y": 75
             },
             "raw_name": "Portugu├¬s BR",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "pt-BR"
         },
@@ -146,7 +146,7 @@
               "y": 75
             },
             "raw_name": "Deutsch",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "de"
         },
@@ -183,7 +183,7 @@
               "y": 75
             },
             "raw_name": "Espa├▒ol",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "es"
         },
@@ -220,7 +220,7 @@
               "y": 75
             },
             "raw_name": "Fran├ºais",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "fr"
         },
@@ -257,7 +257,7 @@
               "y": 75
             },
             "raw_name": "Italiano",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "it"
         },
@@ -301,7 +301,7 @@
         {
           "name_loc": 2667782002,
           "suffix": "ko",
-          "wwise_name": null,
+          "wwise_name": "",
           "wwise_event": 0,
           "steam_name": "koreana",
           "steam_depot": 0,
@@ -368,14 +368,14 @@
               "y": 75
             },
             "raw_name": "Espa├▒ol Latinoam├⌐rica",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "es-MX"
         },
         {
           "name_loc": 4099382951,
           "suffix": "pl",
-          "wwise_name": null,
+          "wwise_name": "",
           "wwise_event": 0,
           "steam_name": "polish",
           "steam_depot": 0,
@@ -405,14 +405,14 @@
               "y": 75
             },
             "raw_name": "Polski",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "pl"
         },
         {
           "name_loc": 3855157673,
           "suffix": "pt",
-          "wwise_name": null,
+          "wwise_name": "",
           "wwise_event": 0,
           "steam_name": "portuguese",
           "steam_depot": 0,
@@ -442,14 +442,14 @@
               "y": 75
             },
             "raw_name": "Portugu├¬s",
-            "phonetic_name": null
+            "phonetic_name": ""
           },
           "capone_code": "pt"
         },
         {
           "name_loc": 2546320491,
           "suffix": "ru",
-          "wwise_name": null,
+          "wwise_name": "",
           "wwise_event": 0,
           "steam_name": "russian",
           "steam_depot": 0,
@@ -486,7 +486,7 @@
         {
           "name_loc": 566372895,
           "suffix": "sc",
-          "wwise_name": null,
+          "wwise_name": "",
           "wwise_event": 0,
           "steam_name": "schinese",
           "steam_depot": 0,
@@ -523,7 +523,7 @@
         {
           "name_loc": 3306354563,
           "suffix": "tc",
-          "wwise_name": null,
+          "wwise_name": "",
           "wwise_event": 0,
           "steam_name": "tchinese",
           "steam_depot": 0,
